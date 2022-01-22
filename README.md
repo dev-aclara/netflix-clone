@@ -1,11 +1,15 @@
-<h1 align="center">
-
-:computer: **🎧 SPOTIFLIX**
+<h3 align="center">
  <br>
-</h1>
- <p align="center"> Listen to your favorite albums. </p>
  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara//netflix-clone-but-is-spotify/blob/main/LICENSE)  ![GitHub last commit](https://img.shields.io/github/last-commit/dev-aclara/netflix-clone-but-is-spotify) ![GitHub followers](https://img.shields.io/github/followers/dev-aclara?style=social)
+ ![b4b6e0358f17674ed838ebe633b2a65d](https://user-images.githubusercontent.com/57874018/150651350-6ef57e35-216f-45df-9c8f-f04ee126c15b.png)
+  <p align="center"> Listen to your favorite albums! </p>
+</h3>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/ana-clara-mansano-5051011ab/"><img alt="Made by Ana Clara" src="https://img.shields.io/badge/made%20by-Ana Clara Mansano-%23fc8406"></a>
+ <a href="LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-%23fc8406"></a>
+</p>
+
 
  
 ## 💻 O projeto
@@ -15,13 +19,11 @@ Aplicação feita no  ***Bootcamp Take Blip Web Developer***, onde é realizado 
 <br>
 O desfio porposto consiste em aprimorar a página com as preferências e gostos de cada aluno. Com isso, surgiu o **Spotiflix**, onde foi possível acrescentar álbuns disponíveis em outra grande plataforma streaming que é o ***Spotify***. O catálago de filmes foi substitído por álbuns.
 
-![WhatsApp Video 2022-01-22 at 03 32 04](https://user-images.githubusercontent.com/57874018/150627967-5fdeccc9-d101-4adf-bb31-30a49958f64d.gif)
+![spotflix](https://user-images.githubusercontent.com/57874018/150653047-01b7cbd3-b971-4c72-ae2a-434526814645.png)
 
 
-
-## 🎨 Layout 
-![spotiflix01](https://user-images.githubusercontent.com/57874018/150627716-df283efa-bb21-427c-9d32-059b23f58cae.png)
-![spotiflix02](https://user-images.githubusercontent.com/57874018/150627719-8f9a65a5-7e74-4f88-bf70-31224c0504d1.png)
+## 💻 Exemplo de execução
+![WhatsApp-Video-2022-01-22-at-4 46 04-PM](https://user-images.githubusercontent.com/57874018/150653392-25ebe882-8819-4ecf-b850-e3fc9f33ea82.gif)
 
 ## 🛠️ Tecnologias 
 
@@ -35,8 +37,6 @@ O desfio porposto consiste em aprimorar a página com as preferências e gostos 
 // executar este comando no seu terminal
 git clone https://github.com/dev-aclara/netflix-clone-but-is-spotify
 ```
-
-
 
 ## 👩‍💻 Autora
 
