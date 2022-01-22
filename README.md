@@ -5,6 +5,9 @@
 </h1>
  <p align="center"> Listen to your favorite albums. </p>
  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dev-aclara//netflix-clone-but-is-spotify/blob/main/LICENSE)  ![GitHub last commit](https://img.shields.io/github/last-commit/dev-aclara/netflix-clone-but-is-spotify) ![GitHub followers](https://img.shields.io/github/followers/dev-aclara?style=social)
+
+ 
 ## 💻 O projeto
 
 Aplicação feita no  ***Bootcamp Take Blip Web Developer***, onde é realizado um clone do layout da página principal da Nextflix. Nesse projeto a interface web do famoso site de streaming mundial foi clonada com **HTML5**, **CSS** e **JavaScript**.
