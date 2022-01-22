@@ -4,13 +4,14 @@ $('.owl-carousel').owlCarousel({
     nav:false,
     responsive:{
         0:{
-            items:1
+            slidesToShow: 1,
         },
         600:{
-            items:4
+            slidesToShow: 3,
+            slidesToScroll: 2,
         },
         1000:{
-            items:5
+            items:6
         }
     }
 })
