@@ -36,6 +36,7 @@ header .logo{
     font-family: 'Arial Black';
     font-size: 35px;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 header nav a{
