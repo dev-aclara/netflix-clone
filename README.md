@@ -14,10 +14,9 @@
  
 ## 💻 O projeto
 
-Aplicação feita no  ***Bootcamp Take Blip Web Developer***, onde é realizado um clone do layout da página principal da Nextflix. Nesse projeto a interface web do famoso site de streaming mundial foi clonada com **HTML5**, **CSS** e **JavaScript**.
-<br>
-<br>
-O desfio porposto consiste em aprimorar a página com as preferências e gostos de cada aluno. Com isso, surgiu o **Spotiflix**, onde foi possível acrescentar álbuns disponíveis em outra grande plataforma streaming que é o ***Spotify***. O catálago de filmes foi substitído por álbuns.
+Aplicação feita no Bootcamp ***Take Blip Web Developer da Digital Innovation One Inc***, onde é realizado um clone do layout da página principal da Netflix. Nesse projeto, a interface web do famoso site de streaming foi clonada com **HTML**, **CSS** e **JavaScript**.
+
+O desfio proposto consiste em aprimorar a página com as preferências e gostos de cada aluno. Com isso, surgiu o **Spotiflix**, onde foi possível acrescentar os álbuns disponíveis em outra grande plataforma streaming que é o Spotify. O catálogo de filmes foi substituído por álbuns.
 
 ![spotflix](https://user-images.githubusercontent.com/57874018/150653047-01b7cbd3-b971-4c72-ae2a-434526814645.png)
 
