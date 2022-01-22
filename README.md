@@ -35,7 +35,7 @@ O desfio porposto consiste em aprimorar a página com as preferências e gostos 
 - ***Observação: É necessário ter o git instalado em sua máquina.***
 ```
 // executar este comando no seu terminal
-git clone https://github.com/dev-aclara/netflix-clone-but-is-spotify
+git clone https://github.com/dev-aclara/netflix-clone
 ```
 
 ## 👩‍💻 Autora
